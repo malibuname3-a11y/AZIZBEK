@@ -1,0 +1,23 @@
+{
+  "identity": {
+    "greeting_language": {
+      "value": "Uzbek",
+      "updated": "2026-05-12"
+    }
+  },
+  "preferences": {
+    "favorite_artist": {
+      "value": "Aynam Eldor",
+      "updated": "2026-05-12"
+    }
+  },
+  "projects": {},
+  "relationships": {},
+  "wishes": {},
+  "notes": {
+    "greeting_language": {
+      "value": "Uzbek",
+      "updated": "2026-05-12"
+    }
+  }
+}
